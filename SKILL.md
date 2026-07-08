@@ -1,28 +1,26 @@
 ---
 name: voice-ai-cold-calling-research-first
-description: "Research-first cold calling framework for voice AI agents selling Voice AI / automation services to local businesses. Based on Katon Walker's proven 'research survey, not sales' method. Use when building voice AI agent scripts for outbound B2B sales calls to SMBs."
-version: 1.0
-source: "https://www.youtube.com/watch?v=CqE7lEaIckE — Part 1: Cold prospecting | https://www.youtube.com/watch?v=FCrJoBjya2c — Part 2: Closing after demo"
-version: 2.0
+description: "Multi-technique cold calling and sales conversation knowledge base for voice AI agents. Covers cold outreach, post-demo closing, GHL deployment, outbound workflow setup, Meta AI integration, and Qritim's full-service AI marketing agency positioning. 4 videos + live call analysis."
+version: 2.1
+source: "4 videos + 1 live call analysis | https://github.com/parajulizRoman/voice-ai-cold-calling-skill"
+
 ---
 
-# Voice AI Cold Calling: Multi-Technique Knowledge Base
+# Voice AI Sales Agent: Multi-Technique Knowledge Base
 
-A growing library of cold calling and sales conversation techniques for voice AI agents. Currently **2 techniques loaded, 8 slots open** for new videos.
+**4 videos loaded | 2 sales techniques | 6 platform references | 1 live-call quality pass**
 
-## Quick Start: Which Technique to Use?
-
-See `references/technique-index.md` for the full decision tree. Quick summary:
+## Quick Start
 
 | Scenario | Use |
 |----------|-----|
 | Cold outreach or inbound discovery | Technique 01 — Research Survey |
 | Post-demo close call | Technique 02 — Customer Journey Mirror |
-| Referral calls | Technique 03 — Coming soon |
-| Price shoppers | Technique 04 — Coming soon |
-| Complaints | Technique 05 — Coming soon |
-
-Each technique is a standalone reference file under `references/technique-XX-name.md`.
+| Deploying to GHL | Read `references/ghl-deployment-gotchas.md` FIRST |
+| Setting up outbound calling | `references/outbound-workflow-setup.md` |
+| Instagram/Messenger handling | `references/meta-ai-conversation-monitoring.md` |
+| Qritim pricing & services | `references/service-playbook-3-boring-ai-services.md` |
+| Full decision tree | `references/technique-index.md` |
 
 ---
 
