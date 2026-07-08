@@ -2,7 +2,7 @@
 name: voice-ai-cold-calling-research-first
 description: "Research-first cold calling framework for voice AI agents selling Voice AI / automation services to local businesses. Based on Katon Walker's proven 'research survey, not sales' method. Use when building voice AI agent scripts for outbound B2B sales calls to SMBs."
 version: 1.0
-source: "https://www.youtube.com/watch?v=CqE7lEaIckE — Katon Walker cold calling demo"
+source: "https://www.youtube.com/watch?v=CqE7lEaIckE — Katon Walker cold calling demo (Part 1: prospecting) | https://www.youtube.com/watch?v=FCrJoBjya2c — Katon Walker closing demo (Part 2: closing)"
 ---
 
 # Voice AI Cold Calling: Research-First Framework
@@ -190,3 +190,113 @@ When loading this skill for a voice AI agent (Vapi, Retell, etc.):
    - Never make pricing promises without approval
    - Never collect sensitive personal data
    - Always disclose AI nature if directly asked
+
+---
+
+## Part 2: The AI Impact Assessment Call — Closing After the Demo
+
+**Source:** https://www.youtube.com/watch?v=FCrJoBjya2c
+
+This is the conversion call that happens AFTER the prospect has received their personalized demo. The demo does the heavy lifting — it's built on their site, with their business info, answering real questions. By the time they book this call, they've already experienced the solution. Your job is NOT to pitch — it's to lead them to their own "aha moment."
+
+### The Core Insight
+
+**"You don't want to be trying to sell them on the reasons why they should use it. Instead, you want to have a conversation where they personally identify with the journey their customers have — so they have the epiphany themselves."**
+
+### The Customer Journey Mirror (Step-by-Step)
+
+This is the script that closes deals. Walk them through THEIR OWN behavior as a customer, then mirror it back.
+
+#### Question 1: "Where do you search?"
+> "Let me ask you something. When you need a product or service — say a plumber or an electrician — where do you usually search for it?"
+
+*They'll say Google.*
+
+> "Yep, most of us do."
+
+#### Question 2: "Do you scroll?"
+> "When you search on Google, do you ever go past the second page?"
+
+*They'll say no, rarely past the first.*
+
+> "Yeah, makes sense. Most of us are the same way."
+
+#### Question 3: "How do you choose?"
+> "So when you're on the first page, how do you determine who you're going to reach out to?"
+
+*They'll say: whoever's at the top, best reviews, or most reviews.*
+
+> "Yeah, most everyone does the same."
+
+#### Question 4: "How many do you call?"
+> "Do you usually only call one business?"
+
+*They'll say: no, I typically call two or three.*
+
+> "Got it. So let's say you call the first one and they don't answer. What do you do?"
+
+*They'll say: I call the next one.*
+
+> "And if that one doesn't answer either?"
+
+*They'll say: I call the next.*
+
+#### Question 5: "So who wins?"
+> "So basically, you go with the business that picks up the phone and answers your questions and helps you move forward — whether that's booking an appointment or just getting your questions answered?"
+
+*They'll agree: "Well, yeah, exactly."*
+
+#### The Mirror
+> "Perfect. So, would it be fair to say that YOUR customers probably behave in that same exact way?"
+
+*They'll agree: "Yeah, that makes sense."*
+
+#### The Pain Lock
+> "And would you agree that if your business isn't engaging leads the right way — whether by phone, chat, or text — those leads are probably bouncing to your competitors?"
+
+*They'll agree: "Yeah, that's probably true."*
+
+#### The Close
+> "So, let me ask you — can you see any reason why you wouldn't want to implement this that closes the gap and makes you never miss a lead again?"
+
+**That's the moment they get it.** You didn't pitch. You walked them through their own behavior and let them arrive at the conclusion themselves.
+
+### Why This Works
+
+1. **It's their logic, not yours**: Every answer comes from them. You just ask the questions.
+2. **Universal behavior**: Everyone searches on Google, checks reviews, calls the top results, and goes with whoever answers. It's not debatable.
+3. **The mirror creates empathy**: "My customers do exactly what I do." — undeniable.
+4. **The pain is quantified by them**: They admit leads bounce to competitors. You didn't say it — they did.
+5. **The close is a question, not a pitch**: "Can you see any reason why you wouldn't..." — it flips the burden. Now THEY have to justify NOT using it.
+
+### The Full Pipeline: Prospecting → Demo → Close
+
+```
+PART 1 (Video 1): COLD CALL
+  → Research survey → name the pain → soft pitch → offer free demo
+  
+PART 2: BUILD DEMO (10 min)
+  → Personalized to THEIR business on a mock version of their site
+  → AI voice/chat already answering questions about their services
+  → They experience the solution, don't just hear about it
+  
+PART 3 (Video 2): AI IMPACT ASSESSMENT CALL
+  → Customer Journey Mirror → "aha moment" → close question → pricing
+```
+
+### Pricing Framework
+
+From the source: **$297-$997/month** for the full managed service. Position it as:
+
+> "You handle your business. We handle every lead coming in — phone, chat, text, 24/7. The AI engages them, qualifies them, books them. You just show up and do the work."
+
+The value proposition: they're not buying software — they're buying peace of mind and recovered revenue.
+
+### When NOT to Use the Mirror
+
+Skip this technique if:
+- The prospect is extremely technical (they'll debate the analogy)
+- They already use an AI answering service (pivot to: "How's it performing?")
+- They're an enterprise with a complex sales process (mirror doesn't map)
+- The call is under 3 minutes (not enough time to walk through all 5 questions)
+
