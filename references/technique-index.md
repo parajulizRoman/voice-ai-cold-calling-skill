@@ -20,6 +20,12 @@ INBOUND CALL?
   ├─ Price shopper ("How much does it cost?")
   │   └─ Use: Price-First Qualification (technique-04) — COMING
   │
+  ├─ "Texting feels spammy" or "I don't want to text my customers"
+  │   └─ Use data from pricing-and-positioning.md: 98% open rate, 45% reply rate
+  │
+  ├─ "Too expensive" / pricing objection
+  │   └─ Use pain math from pricing-and-positioning.md: missed calls × ticket value
+  │
   └─ Angry/frustrated ("Your AI called me 3 times!")
       └─ Use: De-escalation (technique-05) — COMING
 
@@ -42,6 +48,9 @@ VOICEMAIL?
   │
   └─ Third+ attempt
       └─ Use: Breakup Voicemail (technique-10) — COMING
+
+ONBOARDING A NEW CLIENT?
+  └─ See platform-ghl-a2p-registration.md — texting setup, timelines, rejection fixes
 ```
 
 ---
@@ -61,13 +70,24 @@ VOICEMAIL?
 | 09 | Voicemail Drop | TBD | First voicemail | ⏳ Pending |
 | 10 | Breakup Voicemail | TBD | Final attempt | ⏳ Pending |
 
+## Platform & Operations References
+
+| ID | Name | Source | Best For | Status |
+|----|------|--------|----------|--------|
+| P1 | GHL A2P Registration | [Video 3](https://www.youtube.com/watch?v=wGhJHiRlI_8) | Client onboarding, texting setup | ✅ Active |
+
+## Pricing & Positioning References
+
+| ID | Name | Source | Best For | Status |
+|----|------|--------|----------|--------|
+| PP1 | Pricing & Positioning Data | Consolidated from all videos | All sales calls | ✅ Active |
+
 ---
 
-## How to Add a New Technique
+## Video Library
 
-When you share a new video, I will:
-1. Transcribe and extract the technique
-2. Add the full script as a reference file
-3. Add it to this index with scenario routing
-4. Update the master SKILL.md
-5. Push to GitHub
+| # | URL | Type | What We Learned |
+|---|-----|------|----------------|
+| 1 | https://www.youtube.com/watch?v=CqE7lEaIckE | Technique | Research-first cold calling, survey framework, pain math |
+| 2 | https://www.youtube.com/watch?v=FCrJoBjya2c | Technique | Customer Journey Mirror post-demo close |
+| 3 | https://www.youtube.com/watch?v=wGhJHiRlI_8 | Platform | A2P registration, texting stats, $1K/mo pricing benchmark |
