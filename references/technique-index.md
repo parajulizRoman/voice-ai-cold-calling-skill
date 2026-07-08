@@ -2,6 +2,16 @@
 
 This is the decision layer for the voice AI agent. Before every call, evaluate the scenario and pick the best technique.
 
+## ⚠️ Quality Rules — Apply to ALL Calls
+
+**See `references/live-call-quality-rules.md`** — 6 universal rules:
+1. Industry bridge when business doesn't match primary vertical
+2. Probe existing solutions before pivoting away
+3. Only pitch what's relevant to THIS caller
+4. Respect urgency — offer live transfer or shortened timeline
+5. Confirm STT errors before acting on out-of-context statements
+6. Ask for referrals on every call close
+
 ---
 
 ## Technique Decision Tree
@@ -82,6 +92,12 @@ ONBOARDING A NEW CLIENT?
 |----|------|--------|----------|--------|
 | PP1 | Pricing & Positioning Data | Consolidated from all videos | All sales calls | ✅ Active |
 
+## Quality & Guardrails
+
+| ID | Name | Source | Best For | Status |
+|----|------|--------|----------|--------|
+| Q1 | Live Call Quality Rules | Live call analysis (Victor the florist) | Every call | ✅ Active |
+
 ---
 
 ## Video Library
@@ -91,3 +107,4 @@ ONBOARDING A NEW CLIENT?
 | 1 | https://www.youtube.com/watch?v=CqE7lEaIckE | Technique | Research-first cold calling, survey framework, pain math |
 | 2 | https://www.youtube.com/watch?v=FCrJoBjya2c | Technique | Customer Journey Mirror post-demo close |
 | 3 | https://www.youtube.com/watch?v=wGhJHiRlI_8 | Platform | A2P registration, texting stats, $1K/mo pricing benchmark |
+| — | Victor the florist (live call) | Quality | 6 fixes: bridge, probe, pitch relevance, urgency, STT recovery, referrals |
