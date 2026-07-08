@@ -2,7 +2,34 @@
 name: voice-ai-cold-calling-research-first
 description: "Research-first cold calling framework for voice AI agents selling Voice AI / automation services to local businesses. Based on Katon Walker's proven 'research survey, not sales' method. Use when building voice AI agent scripts for outbound B2B sales calls to SMBs."
 version: 1.0
-source: "https://www.youtube.com/watch?v=CqE7lEaIckE — Katon Walker cold calling demo (Part 1: prospecting) | https://www.youtube.com/watch?v=FCrJoBjya2c — Katon Walker closing demo (Part 2: closing)"
+source: "https://www.youtube.com/watch?v=CqE7lEaIckE — Part 1: Cold prospecting | https://www.youtube.com/watch?v=FCrJoBjya2c — Part 2: Closing after demo"
+version: 2.0
+---
+
+# Voice AI Cold Calling: Multi-Technique Knowledge Base
+
+A growing library of cold calling and sales conversation techniques for voice AI agents. Currently **2 techniques loaded, 8 slots open** for new videos.
+
+## Quick Start: Which Technique to Use?
+
+See `references/technique-index.md` for the full decision tree. Quick summary:
+
+| Scenario | Use |
+|----------|-----|
+| Cold outreach or inbound discovery | Technique 01 — Research Survey |
+| Post-demo close call | Technique 02 — Customer Journey Mirror |
+| Referral calls | Technique 03 — Coming soon |
+| Price shoppers | Technique 04 — Coming soon |
+| Complaints | Technique 05 — Coming soon |
+
+Each technique is a standalone reference file under `references/technique-XX-name.md`.
+
+---
+
+## Technique 01: Research Survey (Cold Outreach)
+
+**File:** `references/technique-01-research-survey.md`
+**Best for:** Cold calls, inbound discovery, qualifying leads
 ---
 
 # Voice AI Cold Calling: Research-First Framework
@@ -190,6 +217,10 @@ When loading this skill for a voice AI agent (Vapi, Retell, etc.):
    - Never make pricing promises without approval
    - Never collect sensitive personal data
    - Always disclose AI nature if directly asked
+
+### Bundled Templates
+
+- `templates/ghl-system-prompt.md` — Ready-to-paste GoHighLevel Voice AI system prompt for Qritim.com sales agent. Includes inbound flow, outbound cold calling, Customer Journey Mirror close, and objection handling. Copy into GHL → Voice AI → your agent → System Prompt.
 
 ---
 
